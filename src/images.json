@@ -1,0 +1,30 @@
+[
+  {
+    "variants": ["1_1.png", "1_2.png", "1_3.png"],
+    "description": "1st day: Image of my heart",
+    "scale": 6,
+    "size": [8, 8],
+    "background": "#CCCCCC"
+  },
+  {
+    "variants": ["2_1.png", "2_2.webp"],
+    "description": "2nd day: Fire!!!",
+    "scale": 6,
+    "size": [8, 8],
+    "background": "black"
+  },
+  {
+    "variants": ["3_1.webp"],
+    "description": "3nd day: Redneck Rampage",
+    "scale": 6,
+    "size": [16, 16],
+    "background": "#33354a"
+  },
+  {
+    "variants": ["4_1.webp"],
+    "description": "4nd day: Slimed",
+    "scale": 6,
+    "size": [16, 16],
+    "background": "#112200"
+  }
+]

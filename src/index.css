@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Kongtext";
+  src: url("/kongtext.ttf") format("truetype");
+}
+
+html {
+  cursor: default;
+}
+
+body {
+  font-family: "Kongtext", sans-serif;
+  text-rendering: geometricPrecision;
+  background: #E1D3AC;
+}

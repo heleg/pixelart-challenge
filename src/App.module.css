@@ -1,0 +1,23 @@
+.container {
+  padding: 2rem;
+}
+
+.imageContainer {
+  display: flex;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+}
+
+.imageContainer :global(.title) {
+  background-color: #e1d3ac !important;
+}
+
+.image {
+  image-rendering: pixelated;
+  margin: 0.5rem;
+  display: block;
+}
+
+:global(.nes-container) {
+  padding: 0;
+}
