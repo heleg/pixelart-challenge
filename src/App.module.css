@@ -1,0 +1,22 @@
+.container {
+  padding: 2rem;
+}
+
+.imageContainer {
+  margin: 1rem;
+}
+
+.imageContainer :global(.title) {
+  background-color: #e1d3ac !important;
+}
+
+.images {
+  display: flex;
+  align-content: flex-start;
+}
+
+.image {
+  image-rendering: pixelated;
+  margin: 0.5rem;
+  display: block;
+}

@@ -1,0 +1,19 @@
+.list {
+  list-style: none;
+  padding-left: 3rem;
+}
+
+.list :global(li) {
+  margin: 0.3rem 0;
+}
+
+.list :global(li::before) {
+  content: "✘ ";
+  color: red;
+}
+
+
+.list :global(li.done::before) {
+  content: "✔ ";
+  color: green;
+}

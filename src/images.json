@@ -1,0 +1,14 @@
+[
+  {
+    "variants": ["1_1.png", "1_2.png", "1_3.png"],
+    "description": "1st day: Image of my heart",
+    "scale": 6,
+    "size": [8, 8]
+  },
+  {
+    "variants": ["2_1.png"],
+    "description": "2nd day: Fire!!!",
+    "scale": 6,
+    "size": [8, 8]
+  }
+]
